@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/WfN9-E824/model.json
